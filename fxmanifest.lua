@@ -18,6 +18,7 @@ files {
 
 shared_scripts {
     '@ox_lib/init.lua',
+    '@qbx_core/modules/playerdata.lua',
     'shared/config.lua',
     'shared/locales.lua',
 }
